@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rachel Porter"
+title                    : "Colin Rafferty Case"
 title_separator          : "-"
-name                     : &name "Rachel Porter"
-description              : &description "PhD Candidate in Political Science"
-url                      : https://rachelporter.org # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Colin Rafferty Case"
+description              : &description "PhD Student in Political Science"
+url                      : #https://rachelporter.org # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "porter-rachel.github.io"
+repository               : "crcase.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rachel Porter"
+  name             : "Colin Rafferty Case"
   avatar           : "japan.jpeg"
-  bio              : "PhD Candidate, University of North Carolina"
+  bio              : "PhD Student, University of North Carolina"
   location         : "Chapel Hill, NC"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=CuQqTt4AAAAJ"
-  email            : "rachsur@live.unc.edu"
+  googlescholar    : #"https://scholar.google.com/citations?view_op=list_works&hl=en&user=CuQqTt4AAAAJ"
+  email            : "crcase@live.unc.edu"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "porter-rachel"
+  github           : "crcase"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@rachel__porter"
+  twitter          : "@colinrcase"
   vine             :
   weibo            :
   xing             :
