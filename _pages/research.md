@@ -26,7 +26,7 @@ My current work examines (1) the ways in which political elites message and pass
 
 ### Work in Progress
 
-"Partisan Appeals to Bipartisanship" *with Emily Cottle* [[Working Paper]](/files/Case Cottle Partisan Appeals to Bipartisanship.pdf)
+"Partisan Appeals to Bipartisanship" *with Emily Cottle*  [[Working Paper]](/files/Case%20Cottle%20Partisan%20Appeals%20to%20Bipartisanship.pdf)
 
 > How do members of Congress build public support for legislation? Many argue it is through the framing of the legislative process or carefully curated explanations that appeal to their constituents' preferences. Others have claimed, in particular, that when members appeal to bipartisanship — signaling to the public that the legislation at hand was crafted through compromise and is liked by members on both sides of the aisle — members are successful in building support for a given bill. Given the hyper-partisan era that presently exists, however, these bipartisan appeals are unlikely to occur in a vacuum. Members in the minority consistently engage in partisan counter framing in attempts to undermine legislation. In this paper we demonstrate that the benefits awarded to members by engaging in bipartisan appeals are marginal at best. Members of Congress who engage in partisan counter framing can successfully reinforce the support of their own base while undermining their opponent’s legislative accomplishments. While bipartisan legislating is something citizens generally desire from Congress, partisan counter messaging eliminates those benefits and reinforces polarization.
 
