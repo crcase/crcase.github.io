@@ -11,7 +11,7 @@ My current work examines (1) the ways in which political elites message and pass
 
 ### Working Papers
 
-"Infectious Moderation: Personal Experiences and Political Attitudes during Covid-19." [[Working Paper]](/files/infectiousmoderation.pdf)
+"Infectious Moderation: Personal Experiences and Political Attitudes during Covid-19." Under Review [[Working Paper]](/files/infectiousmoderation.pdf)
 
 >Party elites in the United States sent drastically different messages about government priorities and who was to blame for the Covid-19 pandemic. Given the current era of hyper-partisanship, one would expect public opinion to diverge and follow partisan messaging faithfully. However, the Covid-19 pandemic provided citizens with personal experiences that were potentially powerful enough overcome partisan motivated reasoning and encourage voters to hold politicians accountable. Using a mix of cross sectional and panel data, I find that being personally infected with Covid-19 moderated the effects of partisanship in shaping political attitudes where citizens might otherwise be expected to follow partisan cues. Those same personal experiences carried electoral consequences for the 2020 presidential election. Although the events associated with the 2020 pandemic and presidential election are unlikely to repeat themselves, these results carry broader implications for citizens' capacity to hold attitudes independent of partisanship. Partisanship is certainly a powerful force, even in the face of a global pandemic, but its influence does have boundaries.
 
