@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My current work examines (1) the ways in which political elites message and pass public policy to maximize electoral chances and (2) the effect of elite rhetoric, public policy, and real world events on voters' behavior and political attitudes. I have primarily focused on these questions in the context of Congress, specifically intra-party competition in primary elections, but I also have research applying these questions during the 2020 presidential election public opinion more broadly. Additionally, I have worked as a part of a research team assessing the factors that contribute to racial disparities in traffic stops.
+My current work examines (1) the ways in which political elites message and pass public policy to maximize electoral chances and (2) the effect of elite rhetoric, public policy, and real world events on voters' behavior and political attitudes. I have primarily focused on these questions in the context of Congress, specifically intra-party competition in primary elections, but I also have research applying these questions more broadly. Additionally, I have worked as a part of a research team assessing the factors that contribute to racial disparities in traffic stops.
 
 
 ### Working Papers
