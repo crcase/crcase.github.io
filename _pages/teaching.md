@@ -18,5 +18,5 @@ title: "Teaching"
 
 - Poli 203: Race, Innocence, and End of the Death Penalty (Spring 2022)
     - [Syllabus](/files/poli203_syllabus_sp2022.pdf)
-    - [Teaching Evaluations](\files\poli2-3_syllabus_SP22.pdf)
+    - [Teaching Evaluations](\files\poli203_syllabus_SP22.pdf)
  
