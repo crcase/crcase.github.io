@@ -4,7 +4,7 @@ title: "Teaching"
 ---
 
 ### Instructor of Record (UNC Chapel Hill)
-- Poli 100: Introduction to American Politics (Summer 2022)
+- Poli 100: Introduction to American Politics (Spring 2023, Summer 2022)
     - In order to fully understand our complicated and contentious political climate and events, it is necessary to understand how the American political system works. We will work toward that understanding together by exploring the system from two angles: *institutions*, or the structure of the United States government; and *behavior*, or the actions and motivations of political actors, both politicians and the general public. We will discuss what problems the government and political system seek to solve and why they sometimes succeed and sometimes fail to solve those problems.
     - [Syllabus](/files/poli100_syllabusSS22.pdf)
     - [Sample Assignment](/files/poli100_finalprojectSS22.pdf)
