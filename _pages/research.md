@@ -6,12 +6,13 @@ author_profile: true
 
 My current work examines (1) the ways in which political elites message and pass public policy to maximize electoral chances and (2) the effect of elite rhetoric, public policy, and real world events on voters' behavior and political attitudes. I have primarily focused on these questions in the context of Congress, specifically intra-party competition in primary elections, but I also have research applying these questions more broadly. Additionally, I have worked as a part of a research team assessing the factors that contribute to racial disparities in traffic stops.
 
+### Publications
 
-### Working Papers
-
-"Partisan Appeals to Bipartisanship." *with Emily Cottle.* Under Review [[Working Paper]](/files/Case%20Cottle%20Partisan%20Appeals%20to%20Bipartisanship.pdf)[[Replication Materials]](https://github.com/crcase/partisan-appeals-to-bipartisanship)
+"Partisan Appeals to Bipartisanship." *with [Emily Cottle Ommundsen](https://emilyommundsen.com).*  Forthcoming at Political Behavior [[Paper]](/files/Case%20Cottle%20Partisan%20Appeals%20to%20Bipartisanship.pdf) [[Replication Materials]](https://github.com/crcase/partisan-appeals-to-bipartisanship)
 
 > How do members of Congress build public support for legislation? Many argue it is through the framing of the legislative process or carefully curated explanations that appeal to their constituents' preferences. Some suggest the key to members of Congress building public support for legislation is appealing to bipartisanship — signaling to the public that legislation was crafted through compromise and is liked by members on both sides of the aisle. Given the hyper-partisan era that presently exists, however, these bipartisan appeals are unlikely to occur in a vacuum. The minority party has incentives to engage in counter framing to undermine support for legislation. We demonstrate that the benefits awarded to members by engaging in bipartisan appeals are overstated. By engaging in counter messaging, members in the minority party can undermine the legislative accomplishments of their opponents, as well as approval for the legislature. Minority-party members, however, must be careful in how they counter message: partisan, rather than neutral, messages actually increase support for the legislature's majority party while decreasing support for the minority party.
+
+### Working Papers
 
 "Infectious Moderation: Personal Experiences and Political Attitudes during Covid-19." [[Working Paper]](/files/infectiousmoderation.pdf)
 
