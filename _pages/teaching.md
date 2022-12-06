@@ -15,7 +15,7 @@ title: "Teaching"
 
 - Poli 100: Introduction to American Politics (Fall 2020, Fall 2021)
     - [Syllabus](/files/poli100_syllabus_fall2021.pdf)
-    - [Teaching Evaluations (Fall 2020 and Fall 2021)](/files/poli100_taevals.pdf)
+    - [Teaching Evaluations](/files/poli100_taevals.pdf)
 
 - Poli 203: Race, Innocence, and End of the Death Penalty (Spring 2022)
     - [Syllabus](/files/poli203_syllabus_sp2022.pdf)
