@@ -12,6 +12,7 @@ title: "Teaching"
  
 ### Teaching Assistant (UNC Chapel Hill)
 - Poli 787: Advanced Topics in Political Data Science (Graduate; Fall 2022)
+    - [Teaching Evaluations](/files/poli787_taevals.pdf)
 
 - Poli 100: Introduction to American Politics (Fall 2020, Fall 2021)
     - [Syllabus](/files/poli100_syllabus_fall2021.pdf)
