@@ -14,18 +14,25 @@ My current work examines (1) the ways in which political elites message and pass
 
 ### Working Papers
 
+"The Selling of Experience in the 2022 Congressional Elections." *with Sarah Treul.* \textit{Under Review}\\
+
+>Past experience in elective office has always been the best predictor of congressional candidate success in elections. These “quality” candidates come into elections with experience fundraising, name recognition, and general knowledge about how to run a successful campaign. Yet, recent congressional elections have seen an increase in the electoral success of inexperienced candidates. As past experience in office may no longer be valued as it once was, how are experienced candidates marketing themselves to voters? Are they still leaning into their past experience in elected office or are they more likely to emphasize other occupations and
+experiences? We expect candidates brand themselves, emphasizing different experiences, based on the type of election they are in and who they are running against. In order to test these expectations, this paper examines all available biography pages of experienced candidates who ran in congressional primaries in 2022. We find clear partisan differences in what candidates past occupational backgrounds they highlight. We find mixed evidence that decisions about what occupations to emphasize vary based on electoral dynamics.
+
+"Estimating Ideology for U.S. House of Representatives Primary Candidates: Word Embeddings and Campaign Websites." [[Poster Presentation (Polmeth 2022)]](/files/EstimatingIdeology.pdf)
+
+>	While a broad range of research has focused on polarization and congressional primary	elections (e.g. Thomsen 2014; Hall 2015; Bonica and Cox 2017), current measures of candidate ideology present significant limitations for the study of candidate behavior and polarization. To improve upon existing measures of congressional primary candidates' ideology, I use word embeddings with document-level vectors trained on congressional candidates' issue statements, as presented on their campaign websites. The estimates produced from this procedure are highly correlated with previous measures of elite ideology, such as DW-Nominate and CF Scores. I demonstrate the desirable properties of this measure, including (1) expanding the number of candidates with ideal-point estimates, (2) capturing candidate behavior versus perceptions of candidate behavior, and (3) the ability to validate the measure against underlying candidate behavior. Furthermore, I provide recommendations for researchers to consider when choosing a measure of candidate ideology.
+
 "Infectious Moderation: Personal Experiences and Political Attitudes during Covid-19." [[Working Paper]](/files/infectiousmoderation.pdf)
 
 >Party elites in the United States sent drastically different messages about government priorities and who was to blame for the Covid-19 pandemic. Given the current era of hyper-partisanship, one would expect public opinion to diverge and follow partisan messaging faithfully. However, the Covid-19 pandemic provided citizens with personal experiences that were potentially powerful enough overcome partisan motivated reasoning and encourage voters to hold politicians accountable. Using a mix of cross sectional and panel data, I find that being personally infected with Covid-19 moderated the effects of partisanship in shaping political attitudes where citizens might otherwise be expected to follow partisan cues. Those same personal experiences carried electoral consequences for the 2020 presidential election. Although the events associated with the 2020 pandemic and presidential election are unlikely to repeat themselves, these results carry broader implications for citizens' capacity to hold attitudes independent of partisanship. Partisanship is certainly a powerful force, even in the face of a global pandemic, but its influence does have boundaries.
 
 
-"Purchasing Privilege? Driver Identity, Status Cues, and Police Suspicion." *with Frank Baumgartner and Will Spillman.* [[Working Paper]](/files/PurchasingPrivilege.pdf)
-
-> In a traffic stop, officers routinely make decisions about the possibility of criminal activity of drivers based on very little information; the decision to conduct a search is an indicator of this suspicion. We review more than 10 million traffic stops conducted by the Texas Highway Patrol to assess which drivers are subjected to search, confirming previous findings with regard to identity-related variables. We are able to assess two new variables here, however: Occupational status, and social status. Professional drivers of long-haul trucks and inter-city buses are rarely subjected to search. Among drivers of passenger cars and SUVs, we assess social status by comparing luxury brands with others. In both cases, we find that status-cues strongly affect the odds of search. Many citizens are routinely subjected to increased police scrutiny, and many see reduced scrutiny. These routine police decisions are clearly based on systematic and inaccurate stereotypes.
 
 
 ### Work in Progress
 
-"Estimating Ideology for U.S. House of Representatives Primary Candidates: Word Embeddings and Campaign Websites." [[Poster Presentation (Polmeth 2022)]](/files/case_wordembeddings.pdf)
+"Coloring within the Party Lines: Candidate Branding in Primary Elections."
+
 
 
