@@ -14,7 +14,7 @@ My current work examines (1) the ways in which political elites message and pass
 
 ### Working Papers
 
-"The Selling of Experience in the 2022 Congressional Elections." *with Sarah Treul.* \textit{Under Review}\\
+"The Selling of Experience in the 2022 Congressional Elections." *with Sarah Treul.* Under Review
 
 >Past experience in elective office has always been the best predictor of congressional candidate success in elections. These “quality” candidates come into elections with experience fundraising, name recognition, and general knowledge about how to run a successful campaign. Yet, recent congressional elections have seen an increase in the electoral success of inexperienced candidates. As past experience in office may no longer be valued as it once was, how are experienced candidates marketing themselves to voters? Are they still leaning into their past experience in elected office or are they more likely to emphasize other occupations and
 experiences? We expect candidates brand themselves, emphasizing different experiences, based on the type of election they are in and who they are running against. In order to test these expectations, this paper examines all available biography pages of experienced candidates who ran in congressional primaries in 2022. We find clear partisan differences in what candidates past occupational backgrounds they highlight. We find mixed evidence that decisions about what occupations to emphasize vary based on electoral dynamics.
