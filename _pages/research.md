@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My current work examines (1) the ways in which political elites behave to maximize their electoral chances and (2) the effect of elite rhetoric, public policy, and real world events on voters' behavior and political attitudes. I have primarily focused on these questions in the context of Congress, specifically intra-party competition in primary elections, but I also have research applying these questions more broadly. 
+My research examines congressional candidate behavior and assesses the extent to which electoral factors shape (1) how candidates differentiate themselves in elections at both the primary and general election stage, (2) how members' campaign style translate to their legislative work and (3) how this behavior subsequently impacts election outcomes. Moreover, I am also interested in the ways in whih this candidate and congressional behavior shape voters' attitudes and behavior. 
 
 ### Publications
 
