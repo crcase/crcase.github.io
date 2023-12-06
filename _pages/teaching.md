@@ -7,9 +7,11 @@ title: "Teaching"
 - Poli 100: Introduction to American Politics (Summer 2022, Spring 2023)
     - [Syllabus](/files/poli100_syllabus.pdf)
     - [Teaching Evaluations](/files/poli100_iorevals.pdf)
- 
+
+ - Poli 281: Data in Politics (Spring 2024)
+
 ### Teaching Assistant (UNC Chapel Hill)
-- Poli 787: Advanced Topics in Political Data Science (Graduate; Fall 2022)
+- Poli 787: Advanced Topics in Political Data Science (Graduate; Fall 2022, Fall 2023)
     - [Lab Materials](https://github.com/crcase/poli787-fall22)
     - [Teaching Evaluations](/files/poli787_taevals.pdf)
 
