@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ### Book Projects
-**Scaling the Meaning of Text with Word Embeddings.** *with Rachel Porter.* Under Contract with Cambridge University Press's Elements in *Quantitative and Computational Methods for the Social Sciences*
+_Scaling the Meaning of Text with Word Embeddings._ *with Rachel Porter* Under Contract with Cambridge University Press's Elements in *Quantitative and Computational Methods for the Social Sciences*
 
 ### Peer-Reviewed Articles
 "Purchasing Privilege? How Status Cues Affect Police Suspicion in Routine Traffic Stops." *with Frank R. Baumgartner and Will Spillman.* Forthcoming. *Politics, Groups, and Identities* [[Paper]](https://doi.org/10.1080/21565503.2024.2378034)
