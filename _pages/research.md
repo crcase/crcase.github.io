@@ -4,8 +4,10 @@ permalink: /research/
 author_profile: true
 ---
 
+### Book Projects
+**Scaling the Meaning of Text with Word Embeddings.** *with Rachel Porter.* Under Contract with Cambridge University Press's Elements in *Quantitative and Computational Methods for the Social Sciences*
 
-### Publications
+### Peer-Reviewed Articles
 "Purchasing Privilege? How Status Cues Affect Police Suspicion in Routine Traffic Stops." *with Frank R. Baumgartner and Will Spillman.* Forthcoming. *Politics, Groups, and Identities* [[Paper]](https://doi.org/10.1080/21565503.2024.2378034)
 
 "The Selling of Experience in the 2022 Congressional Elections." *with Sarah A. Treul.* 2024. *The Journal of Political Marketing* [[Paper]](https://doi.org/10.1080/15377857.2024.2371765)
@@ -18,9 +20,9 @@ author_profile: true
 
 "Conceptualizing and Measuring Early Campaign Fundraising in U.S. House Elections." *with Rachel Porter.* (Invited to Revise and Resubmit at *Political Science Research Methods*) [[Working Paper]](/files/case_porter_money.pdf)
 
-"Congressional Campaign Strategies and Bipartisan Tendencies." *with Emily Cottle Ommundsen and Rachel Porter.*
+"Measuring Policy Positioning in US Congressional Elections." *with Rachel Porter.* [[Working Paper]](/files/case_porter_issues.pdf)
 
-"Measuring Policy Positioning in US Congressional Elections." *with Rachel Porter.*
+"Congressional Campaign Strategies and Bipartisan Tendencies." *with Emily Cottle Ommundsen and Rachel Porter.*
 
 ### Work in Progress
 
