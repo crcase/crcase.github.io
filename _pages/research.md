@@ -28,5 +28,5 @@ author_profile: true
 
 **Coloring within the Party Lines: Candidate Branding in Primary Elections.** [[Polmeth 2023 Poster]](/files/case_logos_poster.pdf)
 
-**Issue Attention in Primary Congressional Elections.** *with Audrey Sachleben and Sarah A. Treul*
+**Issue Attention in Congressional Primary Elections.** *with Audrey Sachleben and Sarah A. Treul*
 
