@@ -12,7 +12,7 @@ author_profile: true
 
 **The Selling of Experience in the 2022 Congressional Elections.** *with Sarah A. Treul.* 2024. *The Journal of Political Marketing* [[Paper]](https://doi.org/10.1080/15377857.2024.2371765)
 
-**Partisan Appeals to Bipartisanship.** *with Emily Cottle Ommundsen.*  2024. *Political Behavior* [[Paper]](https://doi.org/10.1007/s11109-022-09838-7/files/case_cottle_partisanappeals.pdf) [[Replication Materials]](https://doi.org/10.1007/s11109-022-09838-7)
+**Partisan Appeals to Bipartisanship.** *with Emily Cottle Ommundsen.*  2024. *Political Behavior* [[Paper]](https://doi.org/10.1007/s11109-022-09838-7) [[Replication Materials]](https://github.com/crcase/partisan-appeals-to-bipartisanship)
 
 ## Working Papers
 
