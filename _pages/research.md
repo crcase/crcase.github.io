@@ -12,9 +12,9 @@ author_profile: true
 
 **CampaignView, A Database of Policy Platforms and Biographical Narratives for Congressional Candidates.** *with Rachel Porter and Sarah A. Treul.* Forthcoming. *Scientific Data* [[Paper]](/files/website_datapaper.pdf) [[CampaignView.org]](https://campaignview.org)
 
-**Conceptualizing and Measuring Early Campaign Fundraising in U.S. House Elections.** *with Rachel Porter.* Forthcoming. *Political Science Research and Methods* [[Paper]](/files/case_porter_money.pdf)
+**Conceptualizing and Measuring Early Campaign Fundraising in U.S. House Elections.** *with Rachel Porter.* Forthcoming. *Political Science Research and Methods* [[Paper]](/files/case_porter_money.pdf) [[Replication Data]](https://doi.org/10.7910/DVN/FVLHCX)
 
-**Purchasing Privilege? How Status Cues Affect Police Suspicion in Routine Traffic Stops.** *with Frank R. Baumgartner and Will Spillman.* Forthcoming. *Politics, Groups, and Identities* [[Paper]](https://doi.org/10.1080/21565503.2024.2378034)
+**Purchasing Privilege? How Status Cues Affect Police Suspicion in Routine Traffic Stops.** *with Frank R. Baumgartner and Will Spillman.* 2024. *Politics, Groups, and Identities* [[Paper]](https://doi.org/10.1080/21565503.2024.2378034)
 
 **The Selling of Experience in the 2022 Congressional Elections.** *with Sarah A. Treul.* 2024. *The Journal of Political Marketing* [[Paper]](https://doi.org/10.1080/15377857.2024.2371765)
 
