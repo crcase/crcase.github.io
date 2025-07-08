@@ -21,13 +21,13 @@ author_profile: true
 **Partisan Appeals to Bipartisanship.** *with Emily Cottle Ommundsen.*  2024. *Political Behavior* [[Paper]](https://doi.org/10.1007/s11109-022-09838-7) [[Replication Materials]](https://github.com/crcase/partisan-appeals-to-bipartisanship)
 
 ## Working Papers
-**Measuring Policy Positioning in US Congressional Elections.** *with Rachel Porter.* [[Working Paper]](/files/case_porter_issues.pdf)
+**Strategic Heterogeneity in Policy-Level Positioning: Evidence from Congressional Campaigns.** *with Rachel Porter.* [[Working Paper]](/files/case_porter_issues.pdf)
 
 **Bipartisan Campaign Messages as Credible Policymaking Signals.** *with Emily Cottle Ommundsen and Rachel Porter.*
 
-## Work in Progress
-
 **Coloring within the Party Lines: Candidate Branding in Primary Elections.** [[Polmeth 2023 Poster]](/files/case_logos_poster.pdf)
+
+## Work in Progress
 
 **Congressional Campaign Promises and Legislative Collaboration.** *with Emily Cottle Ommundsen.*
 
