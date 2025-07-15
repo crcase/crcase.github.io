@@ -8,7 +8,7 @@ title: "Teaching"
   
 - POLI 3150: Congressional Elections (Fall 2024, Spring 2026) [Syllabus](/files/poli3150_syllabus.pdf)
 
-- POLI 5002: Intermediate Methodology (Spring 2026)
+- POLI 5002: Intermediate Methodology (Graduate, Spring 2026)
   
 - POLI 7002: Text as Data (Graduate, Spring 2025) [Syllabus](/files/poli_7002.pdf)
 
