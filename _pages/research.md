@@ -10,9 +10,9 @@ author_profile: true
 ## Peer-Reviewed Articles
 **Measuring Strategic Positioning in Congressional Elections.** Conditionally Accepted at *The Journal of Politics* [[Paper]](/files/case_measuringpositioning.pdf) [[WEB Scores (2018-2022)]](https://github.com/crcase/WEB-Scores)
 
-**CampaignView, A Database of Policy Platforms and Biographical Narratives for Congressional Candidates.** *with Rachel Porter and Sarah A. Treul.* Forthcoming. *Scientific Data* [[Paper]](/files/website_datapaper.pdf) [[CampaignView.org]](https://campaignview.org)
+**CampaignView, A Database of Policy Platforms and Biographical Narratives for Congressional Candidates.** *with Rachel Porter and Sarah A. Treul.* Forthcoming. *Scientific Data* [[Paper]](https://www.nature.com/articles/s41597-025-05491-x) [[CampaignView.org]](https://campaignview.org)
 
-**Conceptualizing and Measuring Early Campaign Fundraising in U.S. House Elections.** *with Rachel Porter.* Forthcoming. *Political Science Research and Methods* [[Paper]](/files/case_porter_money.pdf) [[Replication Materials]](https://doi.org/10.7910/DVN/FVLHCX)
+**Conceptualizing and Measuring Early Campaign Fundraising in U.S. House Elections.** *with Rachel Porter.* Forthcoming. *Political Science Research and Methods* [[Paper]](https://doi.org/10.1017/psrm.2025.10014) [[Replication Materials]](https://doi.org/10.7910/DVN/FVLHCX)
 
 **Purchasing Privilege? How Status Cues Affect Police Suspicion in Routine Traffic Stops.** *with Frank R. Baumgartner and Will Spillman.* 2024. *Politics, Groups, and Identities* [[Paper]](https://doi.org/10.1080/21565503.2024.2378034)
 
