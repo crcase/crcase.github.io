@@ -8,7 +8,7 @@ author_profile: true
 **Scaling the Meaning of Text with Word Embeddings.** *with Rachel Porter* Under Contract with Cambridge University Press's Elements in *Quantitative and Computational Methods for the Social Sciences*
 
 ## Peer-Reviewed Articles
-**Measuring Strategic Positioning in Congressional Elections.** Conditionally Accepted at *The Journal of Politics* [[Paper]](/files/case_measuringpositioning.pdf) [[Replication Materials]](https://doi.org/10.7910/DVN/2YQ2CF)[[WEB Scores (2018-2022)]](https://github.com/crcase/WEB-Scores)
+**Measuring Strategic Positioning in Congressional Elections.** Forthcoming. *The Journal of Politics* [[Paper]](/files/case_measuringpositioning.pdf) [[Replication Materials]](https://doi.org/10.7910/DVN/2YQ2CF)[[WEB Scores (2018-2022)]](https://github.com/crcase/WEB-Scores)
 
 **CampaignView, A Database of Policy Platforms and Biographical Narratives for Congressional Candidates.** *with Rachel Porter and Sarah A. Treul.* 2025. *Scientific Data* [[Paper]](https://www.nature.com/articles/s41597-025-05491-x) [[CampaignView.org]](https://campaignview.org)
 
@@ -25,11 +25,9 @@ author_profile: true
 
 **Bipartisan Campaign Messages as Credible Policymaking Signals.** *with Emily Cottle Ommundsen and Rachel Porter.*
 
+**Issue Publics and Issue Voting in Primary Elections.** *with Audrey Sachleben and Sarah A. Treul*
+
 **Coloring within the Party Lines: Candidate Branding in Primary Elections.** [[Polmeth 2023 Poster]](/files/case_logos_poster.pdf)
 
-## Work in Progress
 
-**Congressional Campaign Promises and Legislative Collaboration.** *with Emily Cottle Ommundsen.*
-
-**Issue Publics and Issue Voting in Primary Elections.** *with Audrey Sachleben and Sarah A. Treul*
 
