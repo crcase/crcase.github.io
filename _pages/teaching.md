@@ -6,7 +6,7 @@ title: "Teaching"
 ### University of Iowa
 - POLI 1100: Introduction to American Politics Honors (Fall 2024) [Syllabus](/files/poli1100_syllabus.pdf)
   
-- POLI 3150: Congressional Elections (Fall 2024, Spring 2026) [Syllabus](/files/poli3150_syllabus.pdf)
+- POLI 3130: Congressional Elections (Fall 2024, Spring 2026) [Syllabus](/files/poli3150_syllabus.pdf)
 
 - POLI 5002: Intermediate Methodology (Graduate, Spring 2026)
   
