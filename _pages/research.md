@@ -21,9 +21,9 @@ author_profile: true
 **Partisan Appeals to Bipartisanship.** *with Emily Cottle Ommundsen.*  2024. *Political Behavior* [[Paper]](https://doi.org/10.1007/s11109-022-09838-7) [[Replication Materials]](https://github.com/crcase/partisan-appeals-to-bipartisanship)
 
 ## Working Papers
-**Strategic Heterogeneity in Policy-Level Positioning: Evidence from Congressional Campaigns.** *with Rachel Porter.* [[Working Paper]](/files/case_porter_issues.pdf)
+**Strategic Heterogeneity in Policy-Level Positioning: Evidence from Congressional Campaigns.** *with Rachel Porter.* *(Invited to Revise and Resubmit at American Journal of Political Science.)* [[Working Paper]](/files/case_porter_issues.pdf)
 
-**Bipartisan Campaign Messages as Credible Policymaking Signals.** *with Emily Cottle Ommundsen and Rachel Porter.*
+**Bipartisan Campaign Messages are Credible Policymaking Signals.** *with Emily Cottle Ommundsen and Rachel Porter.*
 
 **Issue Publics and Issue Voting in Primary Elections.** *with Audrey Sachleben and Sarah A. Treul*
 
