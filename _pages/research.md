@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Book Monographs
-**Scaling the Meaning of Text with Word Embeddings.** *with Rachel Porter* Under Contract and Under Review with Cambridge University Press's Elements in *Quantitative and Computational Methods for the Social Sciences* [[Working Paper]](/files/cambridge_elements.pdf)
+**Scaling the Meaning of Text with Word Embeddings.** *with Rachel Porter* Under Contract and Under Review with Cambridge University Press's Elements in *Quantitative and Computational Methods for the Social Sciences* [[Working Paper]](/files/Cambridge_Elements.pdf)
 
 ## Peer-Reviewed Articles
 **Strategic Heterogeneity in Policy-Level Positioning: Evidence from Congressional Campaigns.** *with Rachel Porter.* Conditionally Accepted. *American Journal of Political Science* [[Paper]](/files/case_porter_issues.pdf)
