@@ -20,13 +20,13 @@ author_profile: true
 
 **The Selling of Experience in the 2022 Congressional Elections.** *with Sarah A. Treul.* 2024. *The Journal of Political Marketing* [[Paper]](https://doi.org/10.1080/15377857.2024.2371765)
 
-**Purchasing Privilege? How Status Cues Affect Police Suspicion in Routine Traffic Stops.** *with Frank R. Baumgartner and Will Spillman.* 2024. *Politics, Groups, and Identities* [[Working Paper]](https://doi.org/10.1080/21565503.2024.2378034)
+**Purchasing Privilege? How Status Cues Affect Police Suspicion in Routine Traffic Stops.** *with Frank R. Baumgartner and Will Spillman.* 2024. *Politics, Groups, and Identities* [[Paper]](https://doi.org/10.1080/21565503.2024.2378034)
 
 ## Working Papers
 **Bipartisan Campaign Messages are Credible Policymaking Signals.** *with Emily Cottle Ommundsen and Rachel Porter.* [[Working Paper]](/files/bipartisan_credible.pdf)
 
 **Predicting Partnerships: Congressional Issue Alignment and Legislative Collaboration.** *with Emily Cottle Ommundsen.* [[Working Paper]](/files/predicting_partnerships.pdf)
 
-**Core Issue Priorities and Candidate Choice in Congressional Primaries.** *with Audrey Sachleben and Sarah A. Treul.* [[Paper]](/files/coreissues_primaries.pdf)
+**Core Issue Priorities and Candidate Choice in Congressional Primaries.** *with Audrey Sachleben and Sarah A. Treul.* [[Working Paper]](/files/coreissues_primaries.pdf)
 
 **Coloring within the Party Lines: Candidate Branding in Primary Elections.**
