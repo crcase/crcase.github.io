@@ -10,7 +10,7 @@ title: "Teaching"
 
 - POLI:3153: Artificial Intelligence in American Politics (Spring 2027) 
 
-- POLI:5002: Intermediate Methodology (Graduate, Spring 2026, Spring 2027) [Syllabus](/files/poli5003_syllabus.pdf)
+- POLI:5003: Intermediate Methodology (Graduate, Spring 2026, Spring 2027) [Syllabus](/files/poli5003_syllabus.pdf)
   
 - POLI:7002: Text as Data (Graduate, Spring 2025) [Syllabus](/files/poli_7002.pdf)
 
